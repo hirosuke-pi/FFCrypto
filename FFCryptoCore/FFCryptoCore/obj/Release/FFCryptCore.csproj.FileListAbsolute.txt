@@ -1,0 +1,5 @@
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptCore\FFCryptCore\bin\Release\ffc.exe
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptCore\FFCryptCore\obj\Release\FFCryptCore.csproj.CoreCompileInputs.cache
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptCore\FFCryptCore\obj\Release\ffc.exe
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptCore\FFCryptCore\bin\Release\ffc.exe.config
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptCore\FFCryptCore\obj\Release\FFCryptCore.csprojAssemblyReference.cache

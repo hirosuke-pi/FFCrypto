@@ -1,0 +1,28 @@
+
+[*] [FFCrypt Core v1.00]
+[*] Analysing arguments...
+
+
+[*] Decryption setting informations:
+  + Chipher Mode : AES Mode
+  + Original File: True
+  + All Files    : False
+  + Force Write  : False
+  + Output Path  : Any directory...
+  + File Lists   : 5 file(s)
+  + Password Hash: 9F86D081884C7D659A2FEAA0C55AD015A3BF4F1B2B0B822CD15D6C15B0F00A08
+  + AES Mode     : CBC
+  + AES Padding  : PKCS7
+  + AES BlockSize: 256 bits
+  + AES KeySize  : 256 bits
+
+[*] Starting file decryption...
+  + Dec(1/5): C:\Users\hiroki\Desktop\BenchMarks\新しいテキスト ドキュメント.ffc - (Done: 92ms)
+  + Dec(2/5): C:\Users\hiroki\Desktop\BenchMarks\sysbench\CentOS7_Bench.ffc - (Done: 68ms)
+  + Dec(3/5): C:\Users\hiroki\Desktop\BenchMarks\sysbench\UbuntuServer_Bench.ffc - (Done: 74ms)
+  + Dec(4/5): C:\Users\hiroki\Desktop\BenchMarks\UnixBench\UnixBench_CentOS7.ffc - (Done: 70ms)
+  + Dec(5/5): C:\Users\hiroki\Desktop\BenchMarks\UnixBench\UnixBench_UbuntuServer.ffc - (Done: 70ms)
+
+[*] Completed decryption. (377ms)
+
+

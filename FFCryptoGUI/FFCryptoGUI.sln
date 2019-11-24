@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFCryptoGUI", "FFCryptoGUI\FFCryptoGUI.csproj", "{34009EE4-F74F-4AF7-BD3B-E7DF8B1129B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34009EE4-F74F-4AF7-BD3B-E7DF8B1129B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34009EE4-F74F-4AF7-BD3B-E7DF8B1129B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34009EE4-F74F-4AF7-BD3B-E7DF8B1129B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34009EE4-F74F-4AF7-BD3B-E7DF8B1129B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A95416E-8AB0-44EE-A119-32B29E233A5B}
+	EndGlobalSection
+EndGlobal

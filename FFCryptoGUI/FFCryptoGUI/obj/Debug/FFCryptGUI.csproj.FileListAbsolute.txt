@@ -1,0 +1,15 @@
+C:\Users\hiroki\source\repos\FFCryptGUI\FFCryptGUI\obj\Debug\FFCryptGUI.csprojAssemblyReference.cache
+C:\Users\hiroki\source\repos\FFCryptGUI\FFCryptGUI\obj\Debug\FFCryptGUI.Main.resources
+C:\Users\hiroki\source\repos\FFCryptGUI\FFCryptGUI\obj\Debug\FFCryptGUI.csproj.GenerateResource.cache
+C:\Users\hiroki\source\repos\FFCryptGUI\FFCryptGUI\obj\Debug\FFCryptGUI.csproj.CoreCompileInputs.cache
+C:\Users\hiroki\source\repos\FFCryptGUI\FFCryptGUI\obj\Debug\FFCryptGUI.Forms.InfoForm.resources
+C:\Users\hiroki\source\repos\FFCryptGUI\FFCryptGUI\obj\Debug\FFCryptGUI.Forms.LogForm.resources
+C:\Users\hiroki\source\repos\FFCryptGUI\FFCryptGUI\obj\Debug\FFCryptGUI.Forms.ProjectForm.resources
+C:\Users\hiroki\source\repos\FFCryptGUI\FFCryptGUI\obj\Debug\FFCryptGUI.Forms.SettingsForm.resources
+C:\Users\hiroki\source\repos\FFCryptGUI\FFCryptGUI\obj\Debug\FFCryptGUI.Forms.CryptoForm.resources
+C:\Users\hiroki\source\repos\FFCryptGUI\FFCryptGUI\obj\Debug\FFCryptoGUI.Properties.Resources.resources
+C:\Users\hiroki\source\repos\FFCryptGUI\FFCryptGUI\bin\Debug\FFCryptoGUI.exe.config
+C:\Users\hiroki\source\repos\FFCryptGUI\FFCryptGUI\bin\Debug\FFCryptoGUI.exe
+C:\Users\hiroki\source\repos\FFCryptGUI\FFCryptGUI\bin\Debug\FFCryptoGUI.pdb
+C:\Users\hiroki\source\repos\FFCryptGUI\FFCryptGUI\obj\Debug\FFCryptoGUI.exe
+C:\Users\hiroki\source\repos\FFCryptGUI\FFCryptGUI\obj\Debug\FFCryptoGUI.pdb

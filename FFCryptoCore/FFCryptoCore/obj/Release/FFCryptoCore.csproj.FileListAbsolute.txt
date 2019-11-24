@@ -1,0 +1,14 @@
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptCore\bin\Release\ffc.exe.config
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptCore\bin\Release\ffc.exe
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptCore\obj\Release\FFCryptoCore.csprojAssemblyReference.cache
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptCore\obj\Release\FFCryptoCore.csproj.CoreCompileInputs.cache
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptCore\obj\Release\ffc.exe
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\obj\Release\FFCryptoCore.csprojAssemblyReference.cache
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\obj\Release\FFCryptoCore.csproj.CoreCompileInputs.cache
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\bin\Release\DotNetZip.dll
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\bin\Release\DotNetZip.pdb
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\bin\Release\DotNetZip.xml
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\obj\Release\FFCryptoCore.csproj.CopyComplete
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\bin\Release\ffcrypto.exe.config
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\bin\Release\ffcrypto.exe
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\obj\Release\ffcrypto.exe

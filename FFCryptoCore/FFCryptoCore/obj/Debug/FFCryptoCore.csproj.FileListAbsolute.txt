@@ -1,0 +1,11 @@
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\obj\Debug\FFCryptoCore.csprojAssemblyReference.cache
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\obj\Debug\FFCryptoCore.csproj.CoreCompileInputs.cache
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\bin\Debug\DotNetZip.dll
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\bin\Debug\DotNetZip.pdb
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\bin\Debug\DotNetZip.xml
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\obj\Debug\FFCryptoCore.csproj.CopyComplete
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\bin\Debug\ffcrypto.exe.config
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\bin\Debug\ffcrypto.exe
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\bin\Debug\ffcrypto.pdb
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\obj\Debug\ffcrypto.exe
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptoCore\FFCryptoCore\obj\Debug\ffcrypto.pdb

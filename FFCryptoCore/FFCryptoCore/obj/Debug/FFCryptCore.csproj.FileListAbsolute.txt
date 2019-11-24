@@ -1,0 +1,7 @@
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptCore\FFCryptCore\bin\Debug\ffc.exe
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptCore\FFCryptCore\bin\Debug\ffc.pdb
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptCore\FFCryptCore\obj\Debug\FFCryptCore.csproj.CoreCompileInputs.cache
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptCore\FFCryptCore\obj\Debug\ffc.exe
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptCore\FFCryptCore\obj\Debug\ffc.pdb
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptCore\FFCryptCore\bin\Debug\ffc.exe.config
+C:\Users\hiroki\Documents\Visual Studio 2017\Projects\FFCryptCore\FFCryptCore\obj\Debug\FFCryptCore.csprojAssemblyReference.cache

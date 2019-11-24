@@ -1,0 +1,16 @@
+C:\Users\hiroki\source\repos\FFCryptoGUI\FFCryptoGUI\bin\Release\FFCryptoGUI.exe.config
+C:\Users\hiroki\source\repos\FFCryptoGUI\FFCryptoGUI\bin\Release\FFCryptoGUI.exe
+C:\Users\hiroki\source\repos\FFCryptoGUI\FFCryptoGUI\bin\Release\FFCryptoGUI.pdb
+C:\Users\hiroki\source\repos\FFCryptoGUI\FFCryptoGUI\obj\Release\FFCryptoGUI.csprojAssemblyReference.cache
+C:\Users\hiroki\source\repos\FFCryptoGUI\FFCryptoGUI\obj\Release\FFCryptGUI.Forms.CryptoForm.resources
+C:\Users\hiroki\source\repos\FFCryptoGUI\FFCryptoGUI\obj\Release\FFCryptGUI.Forms.InfoForm.resources
+C:\Users\hiroki\source\repos\FFCryptoGUI\FFCryptoGUI\obj\Release\FFCryptGUI.Forms.LoadingForm.resources
+C:\Users\hiroki\source\repos\FFCryptoGUI\FFCryptoGUI\obj\Release\FFCryptGUI.Forms.LogForm.resources
+C:\Users\hiroki\source\repos\FFCryptoGUI\FFCryptoGUI\obj\Release\FFCryptGUI.Forms.ProjectForm.resources
+C:\Users\hiroki\source\repos\FFCryptoGUI\FFCryptoGUI\obj\Release\FFCryptGUI.Forms.SettingsForm.resources
+C:\Users\hiroki\source\repos\FFCryptoGUI\FFCryptoGUI\obj\Release\FFCryptGUI.Main.resources
+C:\Users\hiroki\source\repos\FFCryptoGUI\FFCryptoGUI\obj\Release\FFCryptoGUI.Properties.Resources.resources
+C:\Users\hiroki\source\repos\FFCryptoGUI\FFCryptoGUI\obj\Release\FFCryptoGUI.csproj.GenerateResource.cache
+C:\Users\hiroki\source\repos\FFCryptoGUI\FFCryptoGUI\obj\Release\FFCryptoGUI.csproj.CoreCompileInputs.cache
+C:\Users\hiroki\source\repos\FFCryptoGUI\FFCryptoGUI\obj\Release\FFCryptoGUI.exe
+C:\Users\hiroki\source\repos\FFCryptoGUI\FFCryptoGUI\obj\Release\FFCryptoGUI.pdb
